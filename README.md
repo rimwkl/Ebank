@@ -83,6 +83,12 @@
 <img src="captures/img_81.png">
 <img src="captures/img_82.png">
 <img src="captures/img_83.png">
+<img src="captures/img_84.png">
+<img src="captures/img_85.png">
+<img src="captures/img_86.png">
+<img src="captures/img_87.png">
+<img src="captures/img_88.png">
+<img src="captures/img_89.png">
 
 
 
